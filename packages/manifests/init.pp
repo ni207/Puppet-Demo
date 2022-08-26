@@ -16,4 +16,4 @@ class packages {
    content => "<html><h1>welcome to DevOps training</h1></html>"
  }
 
-}
+
